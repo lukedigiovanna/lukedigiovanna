@@ -1,4 +1,10 @@
-Hello! I am a computer science and mathematics student at Virginia Tech. I am interested in the full breadth of computer science, but I have recently been delving into the field of web development. Even more recently I have found an interest in information retrieval systems such as search engines and recommendation algorithms.
+Hello! I am a computer science and mathematics student at Virginia Tech. I am interested in the full breadth of computer science, but here's a list of a few of my favorite areas:
+
+- Information retrieval systems
+- Graphics (3D, shaders, etc.)
+- Web dev
+- Realtime networking
+- Simulation
 
 Quotes that I like:
 
