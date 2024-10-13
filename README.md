@@ -1,10 +1,16 @@
 Hello! I am a computer science and mathematics student at Virginia Tech. I am interested in the full breadth of computer science, but here's a list of a few of my favorite areas:
 
 - Information retrieval systems
-- Graphics (3D, shaders, etc.)
-- Web dev
 - Realtime networking
+- Graphics (3D, shaders, etc.)
 - Simulation
+
+My portfolio page is a bit dated, so here is a list of some of my live applications
+
+- [Wiki Lie](http://wiki-lie.xyz/) ([code](https://github.com/lukedigiovanna/wiki-lie-3)): A party game for those who are good at bullsh*tting
+- [Data Type Inspector](https://lukedigiovanna.github.io/data-type-inspector/#unsigned-integer) ([code](https://github.com/lukedigiovanna/data-type-inspector)): A small web-app to view the underlying binary representation of primitive data types
+- [Ballot Pulse](https://lukedigiovanna.github.io/ballot-pulse/) ([code](https://github.com/lukedigiovanna/ballot-pulse)): A utility I made in a weekend for election data enthusiasts.
+- [Writings](https://lukedigiovanna.github.io/writings/) ([code](https://github.com/lukedigiovanna/writings)): A small space I have recently created to start putting my thoughts (very much WIP); uses custom static-site-generation tool.
 
 Quotes that I like:
 
