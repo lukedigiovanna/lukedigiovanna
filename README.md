@@ -12,6 +12,12 @@ My portfolio page is a bit dated, so here is a list of some of my live applicati
 - [Ballot Pulse](https://lukedigiovanna.github.io/ballot-pulse/) ([code](https://github.com/lukedigiovanna/ballot-pulse)): A utility I made in a weekend for election data enthusiasts.
 - [Writings](https://lukedigiovanna.github.io/writings/) ([code](https://github.com/lukedigiovanna/writings)): A small space I have recently created to start putting my thoughts (very much WIP); uses custom static-site-generation tool.
 
+Things that I am working on now:
+
+- **C-Websocket**: A custom websocket server written purely in C (mainly as an educational project)
+- **coder-scratchpad**: A web-based utilty to write small programs/test scripts and have them automatically save to the cloud
+- **writings**: A static-site-generation project
+
 Quotes that I like:
 
 > Assume for the sake of argument that conscious beings have existed for some twenty million years: see what strides machines have made in the last thousand! May not the world last twenty million years longer? if so, what will they not in the end become? Is it not safer to nip the mischief in the bud and to forbid them further progress?
