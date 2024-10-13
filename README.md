@@ -14,7 +14,7 @@ My portfolio page is a bit dated, so here is a list of some of my live applicati
 
 Things that I am working on now:
 
-- **C-Websocket**: A custom websocket server written purely in C (mainly as an educational project)
+- **c-websocket**: A custom websocket server written purely in C (mainly as an educational project)
 - **coder-scratchpad**: A web-based utilty to write small programs/test scripts and have them automatically save to the cloud
 - **writings**: A static-site-generation project
 
