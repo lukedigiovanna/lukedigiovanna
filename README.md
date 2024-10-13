@@ -1,7 +1,7 @@
 Hello! I am a computer science and mathematics student at Virginia Tech. I am interested in the full breadth of computer science, but here's a list of a few of my favorite areas:
 
 - Information retrieval systems
-- Realtime networking
+- Realtime networking + computer systems
 - Graphics (3D, shaders, etc.)
 - Simulation
 
