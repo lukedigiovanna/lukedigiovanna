@@ -27,3 +27,7 @@ Quotes that I like:
 > Among the bad jokes evolution has played on us are these: 1) We have brains that can conceive of states of perfection they can't achieve, _2) We have brains that compare our insides to other people's outsides,_ 3) We have brains desperate to stay alive, yet we are finite beings who perish. There are many more, of course.
 >
 > -- Diane Ackerman, An Alchemy of Mind
+
+> And the mechanical looms that displaced Ned and his comrades meant that someone with less skill, without Ned's specialized training, could take his place. These new machines were "de-skilling," making it easier for less-skilled people to produce high-quality wares that would have required skilled workers in the past.
+>
+> -- Daniel Susskind, A World Without Work
