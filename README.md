@@ -20,7 +20,7 @@ Things that I am working on now:
 
 Quotes that I like:
 
-> Assume for the sake of argument that conscious beings have existed for some twenty million years: see what strides machines have made in the last thousand! May not the world last twenty million years longer? if so, what will they not in the end become? Is it not safer to nip the mischief in the bud and to forbid them further progress?
+> Assume for the sake of argument that conscious beings have existed for some twenty million years: see what strides machines have made in the last thousand! May not the world last twenty million years longer? If so, what will they not in the end become? Is it not safer to nip the mischief in the bud and to forbid them further progress?
 > 
 > -- Samuel Butler, Erewhon, (written in 1872)
 
