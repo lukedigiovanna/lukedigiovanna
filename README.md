@@ -21,7 +21,7 @@ Things that I am working on now:
 
 Links
 
-[![Foo](https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png)](https://www.linkedin.com/in/luke-digiovanna-848309212/)
+[<img width="50" src="[http://www.google.com.au/images/nav_logo7.png](https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png)">]([http://google.com.au/](https://www.linkedin.com/in/luke-digiovanna-848309212/))
 
 Quotes that I like:
 
