@@ -22,7 +22,7 @@ Things that I am working on now:
 Links
 
 [<img src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" width="50">](https://www.linkedin.com/in/luke-digiovanna-848309212/)
-[<img src="https://ppc.land/content/images/size/w1200/2024/02/Bluesky-logo.webp" width="50">](https://bsky.app/profile/lukedigi.bsky.social)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/2319px-Bluesky_Logo.svg.png" width="50">](https://bsky.app/profile/lukedigi.bsky.social)
 
 Quotes that I like:
 
