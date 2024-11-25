@@ -19,11 +19,6 @@ Things that I am working on now:
 - **coder-scratchpad**: A web-based utilty to write small programs/test scripts and have them automatically save to the cloud
 - **writings**: A static-site-generation project
 
-Links
-
-[<img src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" width="50">](https://www.linkedin.com/in/luke-digiovanna-848309212/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/2319px-Bluesky_Logo.svg.png" width="50">](https://bsky.app/profile/lukedigi.bsky.social)
-
 Quotes that I like:
 
 > Assume for the sake of argument that conscious beings have existed for some twenty million years: see what strides machines have made in the last thousand! May not the world last twenty million years longer? If so, what will they not in the end become? Is it not safer to nip the mischief in the bud and to forbid them further progress?
